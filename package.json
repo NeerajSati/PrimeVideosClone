@@ -1,15 +1,31 @@
 {
-  "name": "primeclone",
+  "name": "primevideoclone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.12.0",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
+    "@reduxjs/toolkit": "^1.5.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "firebase": "^8.6.1",
+    "firebase-tools": "^9.10.2",
     "react": "^17.0.2",
+    "react-bootstrap": "^1.6.0",
     "react-dom": "^17.0.2",
+    "react-dropdown": "^1.9.2",
+    "react-icons": "^4.2.0",
+    "react-modal": "^3.13.1",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "react-simple-image-slider": "^2.1.0",
+    "react-slick": "^0.28.1",
+    "react-youtube": "^7.13.1",
+    "redux": "^4.1.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -18,10 +34,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends": "react-app"
   },
   "browserslist": {
     "production": [
