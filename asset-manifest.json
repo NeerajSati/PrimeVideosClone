@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PrimeVideosClone/login/static/css/main.eb57e145.chunk.css",
+    "main.js": "/PrimeVideosClone/login/static/js/main.cc2c3625.chunk.js",
+    "main.js.map": "/PrimeVideosClone/login/static/js/main.cc2c3625.chunk.js.map",
+    "runtime-main.js": "/PrimeVideosClone/login/static/js/runtime-main.6082c1ba.js",
+    "runtime-main.js.map": "/PrimeVideosClone/login/static/js/runtime-main.6082c1ba.js.map",
+    "static/css/2.b7b81393.chunk.css": "/PrimeVideosClone/login/static/css/2.b7b81393.chunk.css",
+    "static/js/2.63d6aa10.chunk.js": "/PrimeVideosClone/login/static/js/2.63d6aa10.chunk.js",
+    "static/js/2.63d6aa10.chunk.js.map": "/PrimeVideosClone/login/static/js/2.63d6aa10.chunk.js.map",
+    "index.html": "/PrimeVideosClone/login/index.html",
+    "static/css/2.b7b81393.chunk.css.map": "/PrimeVideosClone/login/static/css/2.b7b81393.chunk.css.map",
+    "static/css/main.eb57e145.chunk.css.map": "/PrimeVideosClone/login/static/css/main.eb57e145.chunk.css.map",
+    "static/js/2.63d6aa10.chunk.js.LICENSE.txt": "/PrimeVideosClone/login/static/js/2.63d6aa10.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/PrimeVideosClone/login/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6082c1ba.js",
+    "static/css/2.b7b81393.chunk.css",
+    "static/js/2.63d6aa10.chunk.js",
+    "static/css/main.eb57e145.chunk.css",
+    "static/js/main.cc2c3625.chunk.js"
+  ]
+}
